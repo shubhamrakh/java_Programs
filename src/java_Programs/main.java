@@ -7,6 +7,7 @@ public class main {
 		
 		System.out.println("-----------This is simple program----------");
 		System.out.println(new Date());
+		System.out.println("--Hellow----------");
 			
 	}
 
